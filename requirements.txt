@@ -1,2 +1,3 @@
 pip install colorama
 pip install re
+pip install asyncio
