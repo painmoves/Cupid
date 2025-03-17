@@ -3,6 +3,7 @@ import re
 import colorama
 from colorama import Fore
 colorama.init(autoreset=True)
+import asyncio
 
 font = f"""{Fore.CYAN}
 
